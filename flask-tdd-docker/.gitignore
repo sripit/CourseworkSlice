@@ -1,0 +1,5 @@
+#gitignore file is a textfile placed in your git repo
+#that tells git to not track certain files and folders
+#that should not be uploaded to master repo
+__pycache__
+env

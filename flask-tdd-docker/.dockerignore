@@ -1,0 +1,5 @@
+#docker ignore lets you exclude files and folders from being copied
+#over
+env
+Dockerfile
+Dockerfile.prod
